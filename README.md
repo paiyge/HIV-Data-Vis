@@ -1,8 +1,9 @@
 # HIV-fall22
-Data visualization project comparing rates of people living with HIV to instances of nursing homes
-Authors:
-Nick Barnes 
-Paige Norris
+Data visualization project comparing rates of people living with HIV to instances of nursing homes.  
+  
+Authors:  
+Nick Barnes   
+Paige Norris  
 
 # HIV / Medicare / Medicaid / Nursing Homes
 

@@ -1,5 +1,8 @@
 # HIV-fall22
 Data visualization project comparing rates of people living with HIV to instances of nursing homes
+Authors:
+Nick Barnes 
+Paige Norris
 
 # HIV / Medicare / Medicaid / Nursing Homes
 
@@ -94,13 +97,6 @@ ___
 - Include data from previous years in order to assess change over time. 
 - Increase granularity further to idividual zipcodes for higher precision.
 - Scale by population size by county.
-
-___
-### Contributions 
-
-Nick Barnes - scripting management 
-
-Paige Norris - front facing management
 
 <!-- ___
 ___
